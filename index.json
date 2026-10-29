@@ -1,0 +1,11 @@
+{
+  "generated": "2026-10-29T19:57:17Z",
+  "workouts": [
+    {
+      "id": "sample_strength",
+      "name": "Sample Strength",
+      "date": "2026-10-29",
+      "url": "workouts/sample_strength.fit"
+    }
+  ]
+}
