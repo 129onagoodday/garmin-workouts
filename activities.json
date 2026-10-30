@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-30T07:53:20Z",
+  "generated": "2026-10-30T08:05:42Z",
   "activities": [
     {
       "name": "Housecleaning",
@@ -14,7 +14,8 @@
         "Kueche oberflächen putzen",
         "Wohnung wischen",
         "Muell rausbringen"
-      ]
+      ],
+      "met": 3.3
     }
   ]
 }
