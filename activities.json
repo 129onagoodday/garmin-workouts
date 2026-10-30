@@ -1,17 +1,20 @@
 {
-  "generated": "2026-10-30T07:34:10Z",
+  "generated": "2026-10-30T07:53:20Z",
   "activities": [
     {
-      "name": "Cleaning"
-    },
-    {
-      "name": "Staubwischen"
-    },
-    {
-      "name": "Cleaning the sofa"
-    },
-    {
-      "name": "Mopping the floor"
+      "name": "Housecleaning",
+      "intervals": [
+        "Abstauben",
+        "Sofa reinigen",
+        "Boden saugen",
+        "Läufer saugen",
+        "Bad saugen",
+        "Toaletten schrubben",
+        "Bad schrubben",
+        "Kueche oberflächen putzen",
+        "Wohnung wischen",
+        "Muell rausbringen"
+      ]
     }
   ]
 }
