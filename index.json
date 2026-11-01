@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-30T07:23:34Z",
+  "generated": "2026-11-01T12:24:03Z",
   "workouts": [
     {
       "id": "sample_strength",
@@ -12,6 +12,12 @@
       "name": "Cleaning Test",
       "date": "2026-10-30",
       "url": "workouts/cleaning_test.fit"
+    },
+    {
+      "id": "2026-11-01_strength",
+      "name": "Strength 1 Nov",
+      "date": "2026-11-01",
+      "url": "workouts/2026-11-01_strength.fit"
     }
   ]
 }
