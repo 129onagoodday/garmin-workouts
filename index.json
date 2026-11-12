@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-01T13:07:13Z",
+  "generated": "2026-11-12T11:25:15Z",
   "workouts": [
     {
       "id": "cleaning_test",
@@ -12,6 +12,12 @@
       "name": "ArlandaGym",
       "date": "2026-11-01",
       "url": "workouts/2026-11-01_strength.fit"
+    },
+    {
+      "id": "2026-11-12_row_intervals",
+      "name": "Row 3x4min",
+      "date": "2026-11-12",
+      "url": "workouts/2026-11-12_row_intervals.fit"
     }
   ]
 }
