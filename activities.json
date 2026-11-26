@@ -1,11 +1,13 @@
 {
-  "generated": "2026-11-26T20:41:42Z",
+  "generated": "2026-11-26T20:45:47Z",
   "activities": [
     {
       "name": "Housecleaning",
       "intervals": [
-        "Abstauben",
+        "Abstauben (Oberflächen, Lampen, Wände)",
+        "Fensterbretter säubern",
         "Sofa reinigen",
+        "Bettdecke abziehen und Bettwäsche waschen",
         "Matratze wenden",
         "Topper abziehen",
         "Laptop aussaugen",
@@ -17,6 +19,8 @@
         "Kaffeemaschine sauber machen",
         "Herd sauber machen",
         "Oberflächen in Kueche",
+        "Balkon aufräumen",
+        "Rosen nach hinten rücken",
         "Wohnung wischen",
         "Muell rausbringen"
       ],
